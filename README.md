@@ -4,7 +4,7 @@
 
 Welcome to my beautifully crafted, fully responsive Flappy Bird game! This project is built using HTML, CSS, Bootstrap, and JavaScript, providing an engaging and seamless experience across all devices.
 
-![Flappy Bird Game Screenshot](screenshots/img3.png)
+![Flappy Bird Game Screenshot](screenshots/img3.PNG)
 
 ## Features
 
@@ -26,9 +26,9 @@ Check out the live demo: [Flappy Bird Game]( https://farhansahibzada.github.io/F
 
 ## Screenshots
 
-![Game Start](screenshots/img1.png)
-![Gameplay](screenshots/img3.png)
-![Game Over](screenshots/img2.png)
+![Game Start](screenshots/img1.PNG)
+![Gameplay](screenshots/img3.PNG)
+![Game Over](screenshots/img2.PNG)
 
 ## Technologies Used
 
